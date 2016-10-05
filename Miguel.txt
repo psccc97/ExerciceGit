@@ -10,3 +10,24 @@ function Add(int num)
 {
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function manger($nourriture){
+	$kalash = $nourriture + $kalash;
+}
