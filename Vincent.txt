@@ -1,3 +1,0 @@
-2 homme dont les noms sont Vincent et Dinh.
-L'un est homo et l'autre s'appele Vincent. 
-Qui est homo ?
