@@ -4,6 +4,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rutrum suscipit q
 Suspendisse hendrerit pretium ultricies. Mauris consectetur nec libero hendrerit fringilla. Donec tempor ut tellus eu sodales. Nulla lacinia nisi a consectetur lacinia. Cras pulvinar, risus et fermentum ornare, augue est blandit dolor, vitae hendrerit nibh arcu ac quam. Phasellus interdum, magna nec elementum posuere, sapien sem tincidunt justo, sit amet tristique augue sem sed elit. Nam facilisis ligula sed dui finibus congue. Aenean vitae sem tincidunt, cursus turpis id, dapibus lorem. Nulla aliquam id ipsum vitae lacinia. Nam volutpat, libero vel iaculis ultricies, augue justo eleifend urna, sed vulputate libero erat consequat enim. Proin semper, lacus pretium viverra tempus, nulla ante sollicitudin velit, sit amet aliquet ex justo eget felis. Nulla eleifend facilisis metus eu accumsan. Duis condimentum leo magna, a pulvinar velit ultrices vitae. Nullam metus diam, molestie eget tempor vitae, elementum ac arcu. In id sem ut leo cursus efficitur. Curabitur sodales ligula et enim sagittis mollis.
 
 In molestie nulla vel feugiat congue. Vestibulum mollis nulla id gravida laoreet. Nulla facilisi. Nullam aliquam orci in odio feugiat, id ultrices sem sagittis. Etiam nisi purus, ultricies eu semper sit amet, lobortis at risus. Donec ac nibh et libero porta tristique. Vivamus scelerisque egestas massa in laoreet. Integer ipsum dui, tristique sed libero in, tincidunt dapibus diam. Ut at euismod purus, vitae congue elit. Nunc id enim id justo dictum dictum ac eget velit. Etiam neque est, consectetur ac sem ut, tincidunt semper urna. Vivamus faucibus posuere tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque cursus ligula eget tempor viverra.
+function addQuestion(string question)
+{
+	string a;
+	a = question;
+}
 
 
 function Add(int num)
